@@ -15,3 +15,16 @@ With your project already cloned, enter in the folder
 Now, you need to install every NPM dependency with the command below
 
     npm install
+
+With every dependency installed, we'll start up the server
+
+    npm start
+
+Done!
+
+To get a list of people, go to your prefered browser and access the follow URL:
+
+[http:\\localhost:3000/rest/people](http:\\localhost:3000/rest/people)
+
+Be Happy.
+=D
